@@ -18,7 +18,7 @@
               <div class="row">
                 <div class="col-6" style="margin: 0; padding-left:0px;padding-right:5px">
                   <div class="card text-white bg-primary mb-1">
-                    <div class="card-header">Header</div>
+                    <div class="card-header">20</div>
                       <div class="card-body">
                         <h5 class="card-title">title</h5>
                         <p class="card-text">content.</p>
