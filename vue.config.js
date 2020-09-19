@@ -1,7 +1,7 @@
 module.exports = {
   devServer: {
     host: 'https://juanbucio303.github.io/vue/',
-    https: true
+    https: true,
     compress: true,
     disableHostCheck: true,
   },
